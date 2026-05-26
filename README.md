@@ -18,7 +18,7 @@
 | 录音 | sounddevice（16kHz 单声道） |
 | STT | faster-whisper（large-v3，自动 GPU/CPU） |
 | 润色 | DeepSeek `deepseek-chat`，system prompt = prompt-v4 |
-| 触发 | keyboard 全局热键（按住录音，松开转写） |
+| 触发 | keyboard 全局热键（按住录音，再按一次转写） |
 | 输出 | pyperclip 写剪贴板（可选自动粘贴） |
 
 ---
