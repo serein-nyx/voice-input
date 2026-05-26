@@ -1,0 +1,9 @@
+faster-whisper>=1.0.0
+# 可选：STT_ENGINE=paraformer 时需要（按需安装，体积较大）
+# funasr>=1.0.0
+sounddevice>=0.4.6
+numpy
+requests
+pyperclip
+keyboard
+python-dotenv

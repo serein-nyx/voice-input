@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d D:\\\\Claude\\\\project\\\\voiceinput\\\\voice-input)",
+      "Bash(dir /b)"
+    ]
+  }
+}
