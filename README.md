@@ -3,7 +3,7 @@
 按住快捷键说话，松开后自动转写 + 润色，结果直接进剪贴板。
 
 ```
-按住 [F9] 录音  →  松开  →  faster-whisper 转写  →  DeepSeek 润色(prompt-v4)  →  复制到剪贴板
+按住 [alt] 录音  →  再按一次alt  →  faster-whisper/Paraformer 转写  →  DeepSeek 润色(prompt-v4)  →  复制到剪贴板
 ```
 
 是 [VoiceInk 双模语音输入](../VoiceInk双模语音输入) 方案的 Windows 实现：保留「本地 STT」的隐私与零成本，
